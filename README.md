@@ -15,7 +15,7 @@ Loki is a Bash scrip that creates masked phishing URLs by combining shortened li
 
 # Screenshot
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/haithamaouati/Loki/refs/heads/main/screenshot.jpg)
 
 ## Usage
 
@@ -47,7 +47,7 @@ To use the Loki script, follow these steps:
 #### Input Prompts:
 
 1. Phishing URL:
-_Paste Phishing URL (with http or https):_ `http://example.com/phish`
+_Paste Phishing URL (with http or https):_ `http://example.com/phishing`
 
 
 2. Masking Domain:
@@ -55,10 +55,10 @@ _Domain to mask the Phishing URL (with http or https):_ `https://google.com`
 
 
 3. Social Engineering Words:
-_Type social engineering words (e.g., free-money, no spaces):_ `free-money`
+_Type social engineering words (e.g., earn-money, no spaces):_ `earn-money`
 
 Final Output:
-_Generated MaskPhish URL:_ `https://google.com-free-money@is.gd/abcd`
+_Masked URL:_ `https://google.com-earn-money@is.gd/abcd`
 
 ## Author
 
