@@ -16,7 +16,7 @@ Loki is a Bash scrip that creates masked phishing URLs by combining shortened li
 
 # Screenshot
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/haithamaouati/Loki/refs/heads/main/screenshot.png)
 
 ## Usage
 
