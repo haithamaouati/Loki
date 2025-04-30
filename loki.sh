@@ -33,7 +33,6 @@ show_help() {
     cat << EOF
 Usage:
   $0 -p <phishing_url> -m <masking_domain> [-w <words>]
-  $0 --phish <phishing_url> --mask <masking_domain> [--words <words>]
 
 Options:
   -p, --phish     Phishing URL (must start with http/https)
