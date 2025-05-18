@@ -54,4 +54,4 @@ Made with :coffee: by **Haitham Aouati**
 
 ## License
 
-Loki is licensed under [Unlicense license](LICENSE)
+Loki is licensed under [WTFPL license](LICENSE)
